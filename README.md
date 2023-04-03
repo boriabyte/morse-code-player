@@ -10,7 +10,7 @@ A morse code player, programmed using the Arduino IDE, an ESP32 board, a Piezo b
 ### 1. Motivation and origins
 ### 2. How it works
 ### 3. Technologies used
-### 4. Challenges & potential uses
+### 4. [Challenges & potential uses](#challenges-&-potential-uses)
 
 
 
