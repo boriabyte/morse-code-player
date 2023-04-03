@@ -10,7 +10,7 @@ A morse code player, programmed using the Arduino IDE, an ESP32 board, a Piezo b
 ### 1. Motivation and origins
 ### 2. How it works
 ### 3. Technologies used
-### 4. [Challenges & potential uses](#challenges-&-potential-uses)
+### 4. Challenges & potential uses
 
 
 
@@ -42,7 +42,7 @@ Regarding the software, we enter the Arduino IDE, assign the pins and write the 
 The ESP32 board was connected to both the display and buzzer; the buzzer had the ground connected to the GND pin of the board, and the power source was the 3.3 V pin of the ESP. The display was also connected to certain pins which were programmed in the code to make the connection between the two components, while also being connected to the 5 V pin of the board. The display also had a potentiometer that had to be adjusted in order for the backlight to work properly once initialized in the IDE. 
 
 
-## 4. #challenges-&-potential-uses
+## 4. Challenges & potential uses
 
 It was at first a pretty frustrating endeavor, as my original ESP32 was busted so I had to change it with one of me colleague's. I had to struggle a little bit to understand the role of the potentiometer on the back of the display, but when I finally used a small screwdriver to turn it some small degrees in one direction I was amazed to finally see what I wrote in the console finally show up on the display. 
 
